@@ -1,0 +1,25 @@
+# Google Apps Script specific
+.gas/
+.clasp.json
+
+# macOS system files
+.DS_Store
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Temporary files
+~$*
+
+# OAuth 2.0 tokens
+token.json
+credentials.json
+
+# Environment variables
+.env
