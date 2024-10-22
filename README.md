@@ -1,5 +1,10 @@
 # Google Sheets to PDF Converter
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/simple-apps-by-jonika-griffin/google-sheets-to-pdf/releases)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/simple-apps-by-jonika-griffin/google-sheets-to-pdf/blob/main/LICENSE)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/simple-apps-by-jonika-griffin/google-sheets-to-pdf/blob/main/CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/simple-apps-by-jonika-griffin/google-sheets-to-pdf/blob/main/CONTRIBUTING.md)
+
 A Simple App by Jonika Griffin
 
 This tool is part of our mission to improve small business owners' results by 1% with tools that simplify the admin-y stuff. 
